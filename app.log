@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 INFO Application started
 ERROR Database connection failed
 INFO User logged in
 ERROR API request failed
+=======
+INFO Application started
+ERROR Database connection failed
+INFO User logged in
+ERROR API request failed
+>>>>>>> ac1f4c229790b8a0eee65b5f616d2b8066b3e578
 INFO Application stopped
